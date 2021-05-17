@@ -1,0 +1,22 @@
+body
+{
+    background: rgb(232,15,15);
+background: linear-gradient(90deg, rgba(232,15,15,1) 22%, rgba(254,153,30,0.7122199221485469) 42%, rgba(253,250,29,1) 70%, rgba(12,245,15,1) 95%);
+text-align: center;
+}
+
+h1
+{
+    color: aliceblue;
+}
+
+p
+{
+    color: aliceblue;
+}
+
+img
+{
+    width: 300px;
+    height: 300px;
+}
